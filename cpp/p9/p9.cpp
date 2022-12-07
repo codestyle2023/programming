@@ -1,11 +1,9 @@
-#include<iostream>
+ #include<iostream>
  using namespace std;
   main()
    {
 	double a, b, c;
-		
-	cin >> a >> b >> c; 
-	 
+	cin >> a >> b >> c;  
 	if(a > b && a > c) 
 	cout << a << endl;
 	else
@@ -14,4 +12,4 @@
 	else 
 	cout << c << endl;
 								    
-} 
+   } 
